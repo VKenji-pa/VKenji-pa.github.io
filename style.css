@@ -1,0 +1,39 @@
+body{
+            background-image: url(IMG/wp4118234.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            font-family: sans-serif;
+        }
+        .divp{
+            background-color: rgba(255, 255, 255, 0.644);
+            border-radius: 1rem;
+            width: 75%;
+            margin-top: 5%;
+            margin-bottom: 5%;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 1.5em;
+        }
+        h1{
+            text-align: center;
+            font-family: sans-serif;
+            font: 1.2em 400;
+            color: rgb(26, 50, 75); 
+            margin-top: 0%; 
+        }
+        h2{
+            margin-left: 10%;
+        }
+        p{
+            text-align: justify;
+            margin-left: 5%;
+            margin-right: 5%;
+        }
+        .img-container{
+            text-align: center;
+        }
+        .img-viagem{
+            border-radius: 0.6rem;
+            width: 75%
+        }
