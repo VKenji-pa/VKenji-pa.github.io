@@ -1,4 +1,4 @@
-body{
+        body{
             background-image: url(IMG/wp4118234.jpg);
             background-repeat: no-repeat;
             background-attachment: fixed;
@@ -14,6 +14,7 @@ body{
             margin-left: auto;
             margin-right: auto;
             padding: 1.5em;
+            line-height: 1.5em;
         }
         h1{
             text-align: center;
@@ -36,4 +37,9 @@ body{
         .img-viagem{
             border-radius: 0.6rem;
             width: 65%
+        }
+        .vk{
+            text-align: center;
+            font-weight: 400;
+            font-size: 1.4em;
         }
